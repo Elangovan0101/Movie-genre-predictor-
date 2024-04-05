@@ -35,7 +35,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/Movie-Genre-Predictor.git
+git clone https://github.com/Elangovan0101/Movie-genre-predictor-.git
 Install Dependencies:
 
 bash
